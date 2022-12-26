@@ -1,6 +1,10 @@
 # installing WireGuard
 
 
+You can find the related youtube video on this link
+[Youtube](https://www.youtube.com/watch?v=0x9wyN-mNOI&t=1s)
+
+
 ## Introduction to WG
 Why Wiguard
 
